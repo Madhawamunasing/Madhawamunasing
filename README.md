@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!!!!... <br>I'm a final-year undergraduate in the faculty of IT at the University of Moratuwa.<br>I'm a passionate web/ mobile developer.
+Hello!!!!... <br>I'm a 4th year undergraduate in the faculty of IT at the University of Moratuwa.<br>I'm a passionate web/ mobile developer.
 
 
 ## 🌐 Socials:
